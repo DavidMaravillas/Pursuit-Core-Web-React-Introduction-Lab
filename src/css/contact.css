@@ -1,3 +1,13 @@
 #contactList{
     grid-area: sd;
+    text-align: center;
+}
+
+.contact{
+    display:flex;
+    place-content: space-evenly;
+    padding:10px;
+    margin:10px;
+    border-style: solid;
+    border-width: 1px;
 }

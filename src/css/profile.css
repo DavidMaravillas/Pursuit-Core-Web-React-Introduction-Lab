@@ -1,3 +1,7 @@
 .profile{
     grid-area: pr;
+    display:flex;
+    place-content: space-evenly;
+    padding:10px;
+    height:auto;
 }

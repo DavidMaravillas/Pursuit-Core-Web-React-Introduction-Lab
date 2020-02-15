@@ -2,4 +2,8 @@
 #navBar{
     background-color:#ACD8E6;
     grid-area: hd;
+    display:flex;
+    flex-direction:row-reverse;
+    height: 20px;
+    padding: 10px;
 }

@@ -8,6 +8,7 @@ const ContactList =({contacts})=>{
     })
     return(
         <div id="contactList">
+            <h3>Contacts</h3>
             {contacts}
         </div>
     )
